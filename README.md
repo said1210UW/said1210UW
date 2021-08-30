@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Said
+- 👋 Hi, I’m Said Sheck
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently studying Mathematics @UW
 - 📫 How to reach me Email said1210@uw.edu
