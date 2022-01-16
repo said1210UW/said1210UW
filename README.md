@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Said Sheck
-- 👀 Im currently exploring the field of Software Engineering (Specifically Web Development:https://said1210uw.github.io/Said.github.io/) 
+- 👀 Im currently exploring the field of Software Engineering (Specifically Web Development: https://said1210uw.github.io/Said.github.io/) 
 - 🌱 I’m currently studying Mathematics @ the University of Washington
 - 📫 How to reach me Email said1210@uw.edu
 
