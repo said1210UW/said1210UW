@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Said Sheck
 - 🌱 Im currently exploring the field of Data Science. 
 - 🎓 I’m a recent graduate of Mathematics @ the University of Washington
-- 📫 How to reach me Email said1210@uw.edu & https://said1210uw.github.io
+- 📫 Email said1210@uw.edu &  Visit https://said1210uw.github.io
 
 <!---
 said1210UW/said1210UW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
