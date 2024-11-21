@@ -2,6 +2,7 @@
 - 🌱 Im currently exploring the field of Data Science. 
 - 🎓 I’m a recent graduate of Mathematics @ the University of Washington
 - 📫 Email said1210@uw.edu &  Visit https://said1210uw.github.io
+- 📝 Click on my resume https://said1210uw.github.io/files/Resume%202024_07.pdf
 
 <!---
 said1210UW/said1210UW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
