@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Said Sheck
-- 🌱 Im currently exploring the field of Data Science. 
+- 🌱 Im currently exploring the field of Statistical Learning and Data Science. 
 - 🎓 I’m a recent graduate of Mathematics @ the University of Washington
 - 📫 Email said1210@uw.edu &  Visit https://said1210uw.github.io
 - 📝 Click on my resume https://said1210uw.github.io/files/Resume_2024_11.pdf
